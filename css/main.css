@@ -1618,7 +1618,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 /*Section heading style-4*/
 .section-heading-4 h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1F1F1F;
   font-size: 34px;
   font-weight: 700;
@@ -1643,7 +1643,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-4 p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #333333;
   font-size: 21px;
   font-weight: 400;
@@ -1680,7 +1680,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-5 p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #333333;
   font-size: 21px;
   font-weight: 400;
@@ -1717,7 +1717,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-6 p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #333333;
   font-size: 21px;
   font-weight: 400;
@@ -1729,7 +1729,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 /*Section heading style-7*/
 .section-heading-7 h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1F1F1F;
   font-size: 34px;
   font-weight: 700;
@@ -1807,7 +1807,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-8 p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 21px;
@@ -1819,7 +1819,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 /*Section heading style-9*/
 .section-heading-9 h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1F1F1F;
   font-size: 34px;
   font-weight: 700;
@@ -1844,7 +1844,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-9 p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -9533,7 +9533,7 @@ content: '';
    Hero Area-L10
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-10-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -9546,7 +9546,7 @@ content: '';
 }
 
 .landing-10-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -9593,7 +9593,7 @@ content: '';
 }
 
 .hero-area-l0 .content h1 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1F1F1F;
   font-size: 34px;
   font-weight: 700;
@@ -9625,7 +9625,7 @@ content: '';
 }
 
 .hero-area-l0 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #222F3F;
   font-size: 21px;
   font-weight: 400;
@@ -9635,7 +9635,7 @@ content: '';
 }
 
 .hero-area-l0 .banner-sign-text {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -9650,7 +9650,7 @@ content: '';
 }
 
 .header-btn-l10 .sign-in-btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -9664,7 +9664,7 @@ content: '';
 }
 
 .header-btn-l10 .get-start-btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -9793,7 +9793,7 @@ content: '';
 }
 
 .single-features-l10-items .single-features h4 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 28px;
@@ -9804,7 +9804,7 @@ content: '';
 }
 
 .single-features-l10-items .single-features p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -9815,7 +9815,7 @@ content: '';
 }
 
 .single-features-l10-items .single-features .btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -9878,7 +9878,7 @@ content: '';
 }
 
 .content-area-l10-1 .content h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 48px;
@@ -9889,7 +9889,7 @@ content: '';
 }
 
 .content-area-l10-1 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 21px;
@@ -9900,7 +9900,7 @@ content: '';
 }
 
 .content-area-l10-1 .content .btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -9950,7 +9950,7 @@ content: '';
 }
 
 .content-area-l10-2 .content h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 48px;
@@ -9962,7 +9962,7 @@ content: '';
 }
 
 .content-area-l10-2 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 21px;
@@ -9972,7 +9972,7 @@ content: '';
 }
 
 .content-area-l10-2 .content .btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -9997,7 +9997,7 @@ content: '';
 }
 
 .content-area-l10-2 ul li {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
@@ -10060,7 +10060,7 @@ content: '';
 }
 
 .content-area-l10-3 .content h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 48px;
@@ -10071,7 +10071,7 @@ content: '';
 }
 
 .content-area-l10-3 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 21px;
@@ -10085,7 +10085,7 @@ content: '';
   border-radius: 3px;
   min-width: 170px;
   height: 50px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -10106,7 +10106,7 @@ content: '';
 }
 
 .content-area-l10-3 .content .double-content-c3 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -10121,7 +10121,7 @@ content: '';
 }
 
 .content-area-l10-3 ul li {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
@@ -10186,7 +10186,7 @@ content: '';
 }
 
 .price-l10-bottom p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -10223,7 +10223,7 @@ content: '';
 }
 
 .pricing-area-l10 .single-price .price-top span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 13px;
@@ -10238,7 +10238,7 @@ content: '';
   height: 26px;
   background: #F46F7C;
   border-radius: 13px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
@@ -10252,7 +10252,7 @@ content: '';
 }
 
 .pricing-area-l10 .single-price .main-price span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 30px;
@@ -10262,7 +10262,7 @@ content: '';
 }
 
 .pricing-area-l10 .single-price .main-price h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 50px;
@@ -10274,7 +10274,7 @@ content: '';
 }
 
 .pricing-area-l10 .single-price .main-price p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -10295,7 +10295,7 @@ content: '';
 }
 
 .pricing-area-l10 .single-price ul li {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -10314,7 +10314,7 @@ content: '';
   height: 50px;
   background: #1290A4;
   border-radius: 5px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -10324,7 +10324,7 @@ content: '';
 }
 
 .pricing-area-l10 .single-price .price-btn p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -10335,7 +10335,7 @@ content: '';
 }
 
 .pricing-area-l10 label {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -10633,7 +10633,7 @@ Newslater areaL-10
 }
 
 .newsletter-form-l10-bottom {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -10688,7 +10688,7 @@ Footer Area L-10
 }
 
 .footer-l10 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -10698,7 +10698,7 @@ Footer Area L-10
 }
 
 .footer-l10 .footer-widget p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -10709,7 +10709,7 @@ Footer Area L-10
 }
 
 .footer-l10 .footer-widget ul li a {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -10745,7 +10745,7 @@ Footer Area L-10
    Hero Area-L-11
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-11-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -10758,7 +10758,7 @@ Footer Area L-10
 }
 
 .landing-11-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -10840,7 +10840,7 @@ Footer Area L-10
 }
 
 .hero-area-l11 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #222F3F;
   font-size: 21px;
   font-weight: 400;
@@ -10862,7 +10862,7 @@ Footer Area L-10
 }
 
 .hero-area-l11 .banner-sign-text {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -10899,7 +10899,7 @@ Footer Area L-10
 }
 
 .header-btn-l11 .log-in-btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -10915,7 +10915,7 @@ Footer Area L-10
 }
 
 .header-btn-l11 .download-trail-btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -10933,7 +10933,7 @@ Footer Area L-10
   height: 60px;
   background: #f58e0a;
   border-radius: 3px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -11095,7 +11095,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-11-2 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -11155,7 +11155,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-11-3 ul li {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
@@ -11258,7 +11258,7 @@ Content Area-1 L-11-2
 }
 
 .feature-l-11-items .content-body p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -11332,7 +11332,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-slider-l-11 .testimonial-card p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
@@ -11366,7 +11366,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-slider-l-11 .testimonial-card .user-details span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -11408,7 +11408,7 @@ Content Area-1 L-11-2
 }
 
 .newsletter-l-11 .content h5 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -11441,7 +11441,7 @@ Content Area-1 L-11-2
 }
 
 .newsletter-l-11 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -11452,7 +11452,7 @@ Content Area-1 L-11-2
 }
 
 .newsletter-l-11 .content span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -11466,7 +11466,7 @@ Content Area-1 L-11-2
 .newsletter-l-11 .content .btn {
   min-width: 226px;
   height: 60px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -11522,7 +11522,7 @@ Content Area-1 L-11-2
 }
 
 .footer-widget-l-11 ul li a {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -11552,7 +11552,7 @@ Content Area-1 L-11-2
 
 .copyright-area-l-11 p {
   margin-bottom: 0;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -11566,7 +11566,7 @@ Content Area-1 L-11-2
    Hero Area-L-12
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-12-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -11579,7 +11579,7 @@ Content Area-1 L-11-2
 }
 
 .landing-12-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -11680,7 +11680,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-12 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #222F3F;
   font-size: 21px;
   font-weight: 400;
@@ -11694,7 +11694,7 @@ Content Area-1 L-11-2
   height: 60px;
   background: #FC593B;
   border-radius: 5px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -11714,7 +11714,7 @@ Content Area-1 L-11-2
 }
 
 .star-ratings-l12 p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -11753,7 +11753,7 @@ Content Area-1 L-11-2
 }
 
 .header-btn-l-12 .sign-in-btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -11815,7 +11815,7 @@ Content Area-1 L-11-2
 }
 
 .counter-area-l12 h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
@@ -11855,7 +11855,7 @@ Content Area-1 L-11-2
 }
 
 .counter-single-wrapper-l-12 p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 21px;
@@ -11961,7 +11961,7 @@ Content Area-1 L-11-2
 }
 
 .faq-content-l-12 .topics-accordion-wrapper .topics-collapse-wrapper li a {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -12003,7 +12003,7 @@ Content Area-1 L-11-2
 }
 
 .faq-content-l-12 .content span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -12032,7 +12032,7 @@ Content Area-1 L-11-2
 }
 
 .faq-content-l-12 .video-hour-area li {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -12121,7 +12121,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-12-1 .content a {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 21px;
@@ -12211,7 +12211,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-l-12-content span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -12221,7 +12221,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-l-12-content h6 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -12349,7 +12349,7 @@ Content Area-1 L-11-2
   display: none;
   padding: 20px 15px 0px 0px;
   margin-bottom: 6px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -12451,7 +12451,7 @@ Content Area-1 L-11-2
 }
 
 .money-back-content-l12 p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 21px;
@@ -12500,7 +12500,7 @@ Content Area-1 L-11-2
 }
 
 .newsletter-area-l-12 span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -12542,7 +12542,7 @@ Content Area-1 L-11-2
   height: 60px;
   background: #FC593B;
   border-radius: 5px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -12602,7 +12602,7 @@ Content Area-1 L-11-2
 }
 
 .footer-area-l-12 .footer-widget p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -12616,7 +12616,7 @@ Content Area-1 L-11-2
 }
 
 .footer-area-l-12 .footer-widget ul li a {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -12645,7 +12645,7 @@ Content Area-1 L-11-2
 }
 
 .footer-subs-form-l-12 p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -12656,7 +12656,7 @@ Content Area-1 L-11-2
 }
 
 .footer-subs-form-l-12 h6 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -12669,7 +12669,7 @@ Content Area-1 L-11-2
 .footer-subs-form-l-12 .input-group .form-control {
   background: #FFFFFF;
   border-radius: 5px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -12727,7 +12727,7 @@ Content Area-1 L-11-2
    Hero Area-L4
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-13-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -12740,7 +12740,7 @@ Content Area-1 L-11-2
 }
 
 .landing-13-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -12802,7 +12802,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-13 .content h1 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 34px;
@@ -12849,7 +12849,7 @@ Content Area-1 L-11-2
   height: 60px;
   background: #FC593B;
   border-radius: 5px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -12889,7 +12889,7 @@ Content Area-1 L-11-2
 }
 
 .header-btn-l-13 .download-btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -13088,7 +13088,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-13 .testimonial-card .content-body h5 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -13099,7 +13099,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-13 .testimonial-card .content-body p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -13132,7 +13132,7 @@ Content Area-1 L-11-2
 }
 
 .cta-area-l-13 .content span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -13144,7 +13144,7 @@ Content Area-1 L-11-2
 }
 
 .cta-area-l-13 .content h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 42px;
@@ -13208,7 +13208,7 @@ Content Area-1 L-11-2
 }
 
 .footer-widget-l-13 ul li a {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -13219,7 +13219,7 @@ Content Area-1 L-11-2
 }
 
 .copyright-area-l-13 p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -13234,7 +13234,7 @@ Content Area-1 L-11-2
 
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-14-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -13247,7 +13247,7 @@ Content Area-1 L-11-2
 }
 
 .landing-14-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -13341,7 +13341,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-14 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 21px;
@@ -13356,7 +13356,7 @@ Content Area-1 L-11-2
   height: 60px;
   background: #333333;
   border-radius: 3px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -13395,7 +13395,7 @@ Content Area-1 L-11-2
 }
 
 .header-btn-l-14 .trail-btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -13504,7 +13504,7 @@ Content Area-1 L-11-2
   border: 0;
   padding: 0;
   min-width: initial;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -13565,7 +13565,7 @@ Content Area-1 L-11-2
   border: 0;
   padding: 0;
   min-width: initial;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -13654,7 +13654,7 @@ Content Area-1 L-11-2
 }
 
 .features-area-l-14 .content-area p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -13705,7 +13705,7 @@ Content Area-1 L-11-2
   height: 50px;
   background: #333333;
   border-radius: 3px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -13723,7 +13723,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l14 .l-14-pricing-table .single-price span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
@@ -13757,7 +13757,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l14 .l-14-pricing-table .single-price .main-price span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -14078,7 +14078,7 @@ Content Area-1 L-11-2
   border-radius: 3px;
   min-width: 195px;
   height: 60px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -14098,7 +14098,7 @@ Content Area-1 L-11-2
 
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-15-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -14111,7 +14111,7 @@ Content Area-1 L-11-2
 }
 
 .landing-15-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -14174,7 +14174,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-15 .content h6 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -14186,7 +14186,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-15 .content h1 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
   font-size: 34px;
@@ -14218,7 +14218,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-15 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 21px;
@@ -14230,7 +14230,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-15 .rating-text {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -14241,7 +14241,7 @@ Content Area-1 L-11-2
 }
 
 .header-btn-l-15 .get-start-btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -14270,7 +14270,7 @@ Content Area-1 L-11-2
 }
 
 .subscription-form-15 .form-control {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -14304,7 +14304,7 @@ Content Area-1 L-11-2
 }
 
 .subscription-form-15 .btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -14374,7 +14374,7 @@ Content Area-1 L-11-2
 }
 
 .feature-area-l-15-items .content .text-box h3 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 21px;
@@ -14384,7 +14384,7 @@ Content Area-1 L-11-2
 }
 
 .feature-area-l-15-items .content .text-box p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -14432,7 +14432,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-15-1 .content h6 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -14468,7 +14468,7 @@ Content Area-1 L-11-2
   height: 60px;
   background: #FFFFFF;
   border-radius: 5px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -14517,7 +14517,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-15-2 .content h6 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -14587,7 +14587,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-15-2 .services-content-area .services-content h3 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 21px;
@@ -14598,7 +14598,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-15-2 .services-content-area .services-content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -14644,7 +14644,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-15-3 .content h6 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -14724,7 +14724,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-15-3-items .card-content .user-meta .user-info h5 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -14735,7 +14735,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-15-3-items .card-content .user-meta .user-info span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -14822,7 +14822,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15 .section-heading-9 h6 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -14875,7 +14875,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-1 .table-top span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 13px;
@@ -14888,7 +14888,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-1 .main-price span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 30px;
@@ -14900,7 +14900,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-1 .main-price h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 50px;
@@ -14911,7 +14911,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-1 .main-price h2 span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -14923,7 +14923,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-1 .main-price p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -14937,7 +14937,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-1 .table-body ul li {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -14964,7 +14964,7 @@ Content Area-1 L-11-2
   height: 50px;
   background: #f58e0a;
   border-radius: 5px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -14975,7 +14975,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-1 .table-btn p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -14998,7 +14998,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-2 .table-top span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 13px;
@@ -15011,7 +15011,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-2 .main-price span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 30px;
@@ -15023,7 +15023,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-2 .main-price h2 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 50px;
@@ -15034,7 +15034,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-2 .main-price h2 span {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -15046,7 +15046,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-2 .main-price p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -15060,7 +15060,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-2 .table-body ul li {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 17px;
@@ -15079,7 +15079,7 @@ Content Area-1 L-11-2
   height: 50px;
   background: #FC593B;
   border-radius: 5px;
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -15090,7 +15090,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-15-items .l-15-table-2 .table-btn p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -15128,7 +15128,7 @@ Content Area-1 L-11-2
 }
 
 .footer-l-15 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -15138,7 +15138,7 @@ Content Area-1 L-11-2
 }
 
 .footer-l-15 .footer-widget p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -15149,7 +15149,7 @@ Content Area-1 L-11-2
 }
 
 .footer-l-15 .footer-widget ul li a {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -15186,7 +15186,7 @@ Content Area-1 L-11-2
 
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-16-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+  font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -15199,7 +15199,7 @@ Content Area-1 L-11-2
 }
 
 .landing-16-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -15270,7 +15270,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-16 .content h6 {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -15418,7 +15418,7 @@ Content Area-1 L-11-2
 }
 
 .header-btn-l-16 .download-btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -16177,7 +16177,7 @@ Content Area-1 L-11-2
 
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-17-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #fff;
   font-size: 16px;
   font-weight: 400;
@@ -16190,7 +16190,7 @@ Content Area-1 L-11-2
 }
 
 .landing-17-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -16357,7 +16357,7 @@ Content Area-1 L-11-2
 }
 
 .header-btn-l-17 .start-trail-btn {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -17419,7 +17419,7 @@ Content Area-1 L-11-2
 
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-18-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #fff;
   font-size: 16px;
   font-weight: 400;
@@ -17432,7 +17432,7 @@ Content Area-1 L-11-2
 }
 
 .landing-18-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -18273,7 +18273,7 @@ Content Area-1 L-11-2
 
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-19-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #fff;
   font-size: 16px;
   font-weight: 400;
@@ -18290,7 +18290,7 @@ Content Area-1 L-11-2
 }
 
 .landing-19-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -19313,7 +19313,7 @@ Content Area-1 L-11-2
 
         <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .landing-20-menu .site-menu-main .nav-link-item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -19330,7 +19330,7 @@ Content Area-1 L-11-2
 }
 
 .landing-20-menu .site-menu-main .sub-menu--item {
-  font-family: Karla;
+ font-family: 'Open Sans';
   color: #1f1f1f;
   font-size: 16px;
   font-weight: 400;
@@ -21364,7 +21364,7 @@ Content Area-1 L-11-2
 }
 
 .footer-sign-in-1 .content p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -21374,7 +21374,7 @@ Content Area-1 L-11-2
 }
 
 .footer-sign-in-1 .footer-widget p {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -21385,7 +21385,7 @@ Content Area-1 L-11-2
 }
 
 .footer-sign-in-1 .footer-widget ul li a {
-  font-family: Karla;
+ font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
