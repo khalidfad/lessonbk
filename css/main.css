@@ -20389,7 +20389,7 @@ Content Area-1 L-11-2
         Sign up 02
     <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .sign-up-2 {
-  background: url("../image/sign-in/sign-up-2-bg.png");
+  background: url("../image/buy.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -23498,7 +23498,7 @@ Content Area-1 L-11-2
 }
 
 .inner-contact-form-area-1 {
-  background: url("../image/contact/contact-bg-1.png");
+  background: url("../image/map.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -26024,4 +26024,7 @@ a{
   width: 100px;
   height: 100px;
   border-radius: 50%;
+}
+.ssh small{
+  font-size: 12px;
 }
