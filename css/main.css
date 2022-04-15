@@ -1855,7 +1855,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 /*Section heading style-10*/
 .section-heading-10 h2 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   color: #000;
   font-size: 34px;
   font-weight: 700;
@@ -1880,7 +1880,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-10 p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -1891,7 +1891,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 /*Section heading style-11*/
 .section-heading-11 h2 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   color: #000;
   font-size: 34px;
   font-weight: 700;
@@ -1909,7 +1909,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-11 p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -1920,7 +1920,7 @@ li.sub-menu--item.nav-item-has-children i {
 
 /*Section heading style-12*/
 .section-heading-12 h6 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -1930,7 +1930,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-12 h2 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   color: #000;
   font-size: 34px;
   font-weight: 700;
@@ -1948,7 +1948,7 @@ li.sub-menu--item.nav-item-has-children i {
 }
 
 .section-heading-12 p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -15282,7 +15282,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-16 .content h1 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
   font-size: 34px;
@@ -15314,7 +15314,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-16 .content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -15348,7 +15348,7 @@ Content Area-1 L-11-2
   border-radius: 5px;
   min-width: 238px;
   height: 60px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -15371,7 +15371,7 @@ Content Area-1 L-11-2
 
 .hero-area-l-16 .star-ratings .rating-text {
   display: inline-block;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -15477,7 +15477,7 @@ Content Area-1 L-11-2
 }
 
 .feature-area-l6 .content-area h1 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 800;
   font-size: 56px;
@@ -15489,7 +15489,7 @@ Content Area-1 L-11-2
 }
 
 .feature-area-l6 .content-area h6 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
@@ -15499,7 +15499,7 @@ Content Area-1 L-11-2
 }
 
 .feature-area-l6 .content-area p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -15522,7 +15522,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-1-l-16 .content span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -15617,7 +15617,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-2-l-16 .content .content-body h4 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
@@ -15626,7 +15626,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-2-l-16 .content .content-body p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -15928,7 +15928,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-16 .testimonial-card p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -15941,7 +15941,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-16 .testimonial-card .user-identity h5 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -15950,7 +15950,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-16 .testimonial-card .user-identity span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -16010,7 +16010,7 @@ Content Area-1 L-11-2
 }
 
 .newsletter-area-l-16 .content h2 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 46px;
@@ -16021,7 +16021,7 @@ Content Area-1 L-11-2
 }
 
 .newsletter-area-l-16 .content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -16049,7 +16049,7 @@ Content Area-1 L-11-2
   border-radius: 5px;
   min-width: 238px;
   height: 60px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -16098,7 +16098,7 @@ Content Area-1 L-11-2
 }
 
 .footer-area-l-16 .content-body p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -16117,7 +16117,7 @@ Content Area-1 L-11-2
 }
 
 .footer-area-l-16 .footer-single-item h6 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -16126,7 +16126,7 @@ Content Area-1 L-11-2
 }
 
 .footer-area-l-16 .footer-single-item p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -16151,7 +16151,7 @@ Content Area-1 L-11-2
 }
 
 .footer-area-l-16 .copyright-area p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -16270,7 +16270,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-17 .content h1 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
   font-size: 34px;
@@ -16294,7 +16294,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-17 .content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -16304,7 +16304,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-17 .content span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -16320,7 +16320,7 @@ Content Area-1 L-11-2
   border-radius: 3px;
   min-width: 227px;
   height: 50px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -16345,7 +16345,7 @@ Content Area-1 L-11-2
 }
 
 .header-btn-l-17 .sign-in-btn {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -16457,7 +16457,7 @@ Content Area-1 L-11-2
 }
 
 .feature-area-l-17 .feature-area-l-17-items .single-features h4 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
@@ -16467,7 +16467,7 @@ Content Area-1 L-11-2
 }
 
 .feature-area-l-17 .feature-area-l-17-items .single-features p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -16560,7 +16560,7 @@ Content Area-1 L-11-2
   background: rgba(80, 227, 194, 0.14);
   mix-blend-mode: normal;
   border-radius: 3px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -16639,7 +16639,7 @@ Content Area-1 L-11-2
   background: rgba(80, 227, 194, 0.14);
   mix-blend-mode: normal;
   border-radius: 3px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -16714,7 +16714,7 @@ Content Area-1 L-11-2
 }
 
 .video-area-l-17 .video-content h2 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 38px;
@@ -16725,7 +16725,7 @@ Content Area-1 L-11-2
 }
 
 .video-area-l-17 .video-content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -16787,7 +16787,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-17 .single-price .price-top span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 13px;
@@ -16800,7 +16800,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-17 .single-price .main-price span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 30px;
@@ -16812,7 +16812,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-17 .single-price .main-price h2 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 46px;
@@ -16823,7 +16823,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-17 .single-price .main-price h2 span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 17px;
@@ -16835,7 +16835,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-17 .single-price .main-price p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -16849,7 +16849,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-17 .single-price .price-body ul li {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -16876,7 +16876,7 @@ Content Area-1 L-11-2
   height: 50px;
   background: #50E3C2;
   border-radius: 3px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -16887,7 +16887,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-17 .single-price .price-btn p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -16982,7 +16982,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-17 .btn-toggle-2:before {
-  font-family: Inter;
+  font-family: 'Open Sans';
   position: absolute;
   content: "Monthly";
   width: 46%;
@@ -16999,7 +16999,7 @@ Content Area-1 L-11-2
 }
 
 .pricing-area-l-17 .btn-toggle-2:after {
-  font-family: Inter;
+  font-family: 'Open Sans';
   position: absolute;
   content: "Yearly";
   width: 46%;
@@ -17122,7 +17122,7 @@ Content Area-1 L-11-2
 }
 
 .brand-area-l-17 .content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -17179,7 +17179,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-17 .testimonial-card p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -17191,7 +17191,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-17 .testimonial-card .user-identity h5 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -17202,7 +17202,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-17 .testimonial-card .user-identity span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -17231,7 +17231,7 @@ Content Area-1 L-11-2
 }
 
 .cta-area-l-17 h2 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 28px;
@@ -17252,7 +17252,7 @@ Content Area-1 L-11-2
   border-radius: 3px;
   min-width: 227px;
   height: 50px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -17320,7 +17320,7 @@ Content Area-1 L-11-2
 }
 
 .footer-area-l-17 .footer-widget p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -17340,7 +17340,7 @@ Content Area-1 L-11-2
 }
 
 .footer-area-l-17 .footer-widget ul li a {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -17365,7 +17365,7 @@ Content Area-1 L-11-2
 }
 
 .copyright-area-l-17 .copyright p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -17393,7 +17393,7 @@ Content Area-1 L-11-2
 }
 
 .copyright-area-l-17 .footer-menu ul li a {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -17495,7 +17495,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-18 .content h1 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
   font-size: 34px;
@@ -17526,7 +17526,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-18 .content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -17558,7 +17558,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-18 .download-btns .text h6 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -17569,7 +17569,7 @@ Content Area-1 L-11-2
 
 .hero-area-l-18 .download-btns .text span {
   display: inline-block;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -17613,7 +17613,7 @@ Content Area-1 L-11-2
   border-radius: 3px;
   min-width: 145px;
   height: 45px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 14px;
@@ -17638,7 +17638,7 @@ Content Area-1 L-11-2
 }
 
 .brand-area-l-18 .content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -17731,7 +17731,7 @@ Content Area-1 L-11-2
 }
 
 .feature-card-l-18 .content-body h5 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -17740,7 +17740,7 @@ Content Area-1 L-11-2
 }
 
 .feature-card-l-18 .content-body p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -17799,7 +17799,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-18-1 .content h6 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 14px;
@@ -17810,7 +17810,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-18-1 .content .btn {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -17860,7 +17860,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-18-2 .content h6 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 14px;
@@ -17871,7 +17871,7 @@ Content Area-1 L-11-2
 }
 
 .content-area-l-18-2 .content .btn {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -17937,7 +17937,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-18 .content h2 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 34px;
@@ -17954,7 +17954,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-18 .content .btn {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -18029,7 +18029,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-card-slider-l-18 .single-item .content-body p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -18043,7 +18043,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-card-slider-l-18 .single-item .content-body .user-identity h5 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -18053,7 +18053,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-card-slider-l-18 .single-item .content-body .user-identity span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -18146,7 +18146,7 @@ Content Area-1 L-11-2
 }
 
 .cta-area-l-18 .download-btns .text h6 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -18157,7 +18157,7 @@ Content Area-1 L-11-2
 
 .cta-area-l-18 .download-btns .text span {
   display: inline-block;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -18193,7 +18193,7 @@ Content Area-1 L-11-2
 }
 
 .footer-area-l-18 .content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -18241,7 +18241,7 @@ Content Area-1 L-11-2
 }
 
 .footer-l-18-items .footer-widget p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -18253,7 +18253,7 @@ Content Area-1 L-11-2
 }
 
 .footer-l-18-items .footer-widget ul li a {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -18353,7 +18353,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-19 .content h1 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
   font-size: 34px;
@@ -18377,7 +18377,7 @@ Content Area-1 L-11-2
 }
 
 .hero-area-l-19 .content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -18387,7 +18387,7 @@ Content Area-1 L-11-2
 }
 
 .get-chapter-form-l-19 .form-control {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -18424,7 +18424,7 @@ Content Area-1 L-11-2
   border-radius: 3px;
   width: 100%;
   height: 60px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -18447,7 +18447,7 @@ Content Area-1 L-11-2
 }
 
 .get-chapter-form-l-19 span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -18463,7 +18463,7 @@ Content Area-1 L-11-2
   border-radius: 3px;
   min-width: 145px;
   height: 45px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 14px;
@@ -18591,7 +18591,7 @@ Content Area-1 L-11-2
 }
 
 .services-area-l-19-items .single-services .content-body h5 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -18600,7 +18600,7 @@ Content Area-1 L-11-2
 }
 
 .services-area-l-19-items .single-services .content-body p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -18679,7 +18679,7 @@ Content Area-1 L-11-2
 }
 
 .get-chapter-form-l-19-2 .form-control {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -18717,7 +18717,7 @@ Content Area-1 L-11-2
   border-radius: 3px;
   width: 100%;
   height: 60px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -18740,7 +18740,7 @@ Content Area-1 L-11-2
 }
 
 .get-chapter-form-l-19-2 span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -18798,7 +18798,7 @@ Content Area-1 L-11-2
 }
 
 .tab-area-l-19 .chapter-tab-area-l-19 .nav-link p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -18809,7 +18809,7 @@ Content Area-1 L-11-2
 }
 
 .tab-area-l-19 .chapter-tab-area-l-19 .nav-link h4 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 21px;
@@ -18847,7 +18847,7 @@ Content Area-1 L-11-2
 }
 
 .tab-area-l-19 .tab-content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -18874,7 +18874,7 @@ Content Area-1 L-11-2
 }
 
 .tab-area-l-19 .tab-content ul li {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -18971,7 +18971,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-19-items .testimonial-card p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: italic;
   font-weight: normal;
   font-size: 18px;
@@ -18994,7 +18994,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-19-items .testimonial-card .user-identity h5 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -19005,7 +19005,7 @@ Content Area-1 L-11-2
 }
 
 .testimonial-area-l-19-items .testimonial-card .user-identity span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -19074,7 +19074,7 @@ Content Area-1 L-11-2
 }
 
 .author-area-l-19 .about-content h5 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 21px;
@@ -19084,7 +19084,7 @@ Content Area-1 L-11-2
 }
 
 .author-area-l-19 .about-content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -19138,7 +19138,7 @@ Content Area-1 L-11-2
 }
 
 .cta-area-l-19 .content h2 {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
   font-size: 34px;
@@ -19162,7 +19162,7 @@ Content Area-1 L-11-2
 }
 
 .cta-area-l-19 .content p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -19179,7 +19179,7 @@ Content Area-1 L-11-2
 }
 
 .get-chapter-form-l-19-3 .form-control {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -19216,7 +19216,7 @@ Content Area-1 L-11-2
   border-radius: 3px;
   width: 100%;
   height: 60px;
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -19239,7 +19239,7 @@ Content Area-1 L-11-2
 }
 
 .get-chapter-form-l-19-3 span {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -19259,7 +19259,7 @@ Content Area-1 L-11-2
 }
 
 .footer-area-l-19 .footer-copyright p {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -19286,7 +19286,7 @@ Content Area-1 L-11-2
 }
 
 .footer-menu-item-l9 li a {
-  font-family: Inter;
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
