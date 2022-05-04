@@ -838,6 +838,9 @@ div#loading img {
     margin-left: 0;
     margin-right: 0;
   }
+  .container{
+    padding: 50px !important;
+}
 }
 
 @media (min-width: 992px) {
