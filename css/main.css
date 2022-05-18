@@ -20392,7 +20392,8 @@ Content Area-1 L-11-2
         Sign up 02
     <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<*/
 .sign-up-2 {
-  background: url("../image/buy.jpeg");
+  background-color: rgba(0, 0, 0, 0.37);
+  background-image: url("../image/buy.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
